@@ -13,6 +13,5 @@ TWEETS CRUD: /api/tweets/
 /api/tweets/filter -> Filter from date and username
 /api/tweets/delete -> Delete tweets of a specific user
 
-SCRIPT:
-
-asyncio script to insert multiple records
+SCRIPT: ./insert_delete_async.py
+--> asyncio script to insert multiple records
